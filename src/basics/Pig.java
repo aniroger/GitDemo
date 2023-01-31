@@ -12,6 +12,11 @@ public class Pig extends Animal {
 	    System.out.println("The pig says: wee wee dfdfdf");
 	    
 	    System.out.println("The pig says: wee wee  srw");
+	    
+	    System.out.println("The pig says: wee wee jwiooq");
+	    
+	    System.out.println("The pig says: wee wee  srw");
+	    
 	}
 	
 
